@@ -9,12 +9,12 @@ IMAGES_PATH = 'Tensorflow/workspace/images/collectedimages'
 # create more label to translate (just for reminder)
 labels = ['hello', 'hey', 'yes', 'no', 'iloveyou']
 # specify the number of images will take
-number_imgs = 30
+number_imgs = 3
 
-label = 'iloveyou'
+label = 'testing'
 
-if not os.path.exists('Tensorflow\workspace\images\collectedimages\\' + label):
-    os.mkdir('Tensorflow\workspace\images\collectedimages\\' + label)
+if not os.path.exists('G:/ForPushGit/Sign-Language-RecognitionTensorflow\workspace\images\collectedimages\\' + label):
+    os.mkdir('G:/ForPushGit/Sign-Language-Recognition/Tensorflow\workspace\images\collectedimages\\' + label)
 
 cap = cv2.VideoCapture(0)
 print('Start collecting images for {}'.format(label))

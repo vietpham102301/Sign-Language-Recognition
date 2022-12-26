@@ -1,20 +1,100 @@
 item { 
-	name:'Hello'
+	name:'nhà vệ sinh'
 	id:1
 }
-item { 
-	name:'Yes'
+item {
+	name:'đến từ'
 	id:2
 }
 item { 
-	name:'No'
+	name:'tạm biệt'
 	id:3
 }
 item { 
-	name:'Thanks'
+	name:'xin chào'
 	id:4
 }
 item { 
-	name:'I love you'
+	name:'làm thế nào'
 	id:5
+}
+item { 
+	name:'bạn dạo này thế nào'
+	id:6
+}
+item { 
+	name:'tôi'
+	id:7
+}
+item { 
+	name:'anh yêu em'
+	id:8
+}
+item { 
+	name:'tôi ổn'
+	id:9
+}
+item { 
+	name:'đang học'
+	id:10
+}
+item { 
+	name:'nghĩa là gì'
+	id:11
+}
+item { 
+	name:'gặp bạn'
+	id:12
+}
+item { 
+	name:'của tôi'
+	id:13
+}
+item { 
+	name:'tên'
+	id:14
+}
+item { 
+	name:'rất vui được'
+	id:15
+}
+item { 
+	name:'không'
+	id:16
+}
+item { 
+	name:'ký hiệu'
+	id:17
+}
+item { 
+	name:'đánh vần'
+	id:18
+}
+item { 
+	name:'cảm ơn'
+	id:19
+}
+item { 
+	name:'giờ là mấy giờ thế'
+	id:20
+}
+item { 
+	name:'là gì'
+	id:21
+}
+item { 
+	name:'đâu'
+	id:22
+}
+item { 
+	name:'có'
+	id:23
+}
+item { 
+	name:'bạn'
+	id:24
+}
+item { 
+	name:'của bạn'
+	id:25
 }
